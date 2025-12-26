@@ -11,10 +11,6 @@ Building scalable ML systems, GenAI applications, and production-ready full-stac
   <img src="https://komarev.com/ghpvc/?username=hari-1718&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari-1718&theme=algolia&row=1&column=6" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -39,24 +35,24 @@ Building scalable ML systems, GenAI applications, and production-ready full-stac
 
 ## 🌱 Currently Learning
 
-- LoRA Fine-Tuning & PEFT
-- Mistral / Open-Source LLM Inference
-- MLflow Experiment Tracking
-- RAG pipelines & Vector Databases
+- LoRA Fine-Tuning & PEFT  
+- Mistral / Open-Source LLM Inference  
+- MLflow Experiment Tracking  
+- RAG pipelines & Vector Databases  
 
 ---
 
 ## 👯 Open to Collaborate On
 
 - Open-source **ML / GenAI / NLP** projects  
-- LLM tooling, RAG systems, AI agents
+- LLM tooling, RAG systems, AI agents  
 
 ---
 
 ## 💬 Ask Me About
 
-Python • Machine Learning • Deep Learning • NLP •  
-LLMs • TensorFlow • PyTorch • Streamlit • Flask • MERN
+Python • Machine Learning • Deep Learning • NLP  
+LLMs • TensorFlow • PyTorch • Streamlit • Flask • MERN  
 
 ---
 
@@ -64,7 +60,7 @@ LLMs • TensorFlow • PyTorch • Streamlit • Flask • MERN
 
 - 📧 **Email:** hariprasadchinimilli18@gmail.com  
 - 📄 **Resume:** https://github.com/Hari-1718/resume  
-- 👨‍💻 **GitHub:** https://github.com/Hari-1718
+- 👨‍💻 **GitHub:** https://github.com/Hari-1718  
 
 ---
 
@@ -144,22 +140,6 @@ LLMs • TensorFlow • PyTorch • Streamlit • Flask • MERN
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-1718&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hari-1718&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-1718" />
 </p>
 
 ---
