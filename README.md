@@ -1,44 +1,150 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad Chinimilli</h1>
-<h3 align="center">🎓 A passionate AI/ML Engineer & Data Science student from India</h3>
+<h3 align="center">
+AI / ML Engineer • Data Science Undergraduate • Full-Stack MERN Developer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-1718&label=Profile%20views&color=0e75b6&style=flat" alt="hari-1718" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari-1718" alt="hari-1718" /></a> </p>
-
-- 🔭 I’m currently working on [AI-Powered Streamlit Application](https://github.com/Hari-1718/ai-streamlit-app)
-
-- 🌱 I’m currently learning **LoRA Fine-Tuning, Mistral Inference, MLflow Tracking**
-
-- 👯 I’m looking to collaborate on [Open-Source ML Projects](https://github.com/Hari-1718)
-
-- 🤝 I’m looking for help with [Prompt Engineering for LLMs](https://github.com/Hari-1718/prompt-hub)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Hari-1718](https://github.com/Hari-1718)
-
-- 📝 I regularly write articles on [*Coming Soon: Blog on LLM Prompting*](*Coming Soon: Blog on LLM Prompting*)
-
-- 💬 Ask me about **Python, NLP, TensorFlow, Streamlit, Flask**
-
-- 📫 How to reach me **hariprasadchinimilli18@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Hari-1718/resume](https://github.com/Hari-1718/resume)
-
-- ⚡ Fun fact **I once improved an ML model's accuracy by **12%** in just one sprint 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haripch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haripch/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/hariprasad45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hariprasad45" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/hariprasadchini1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hariprasadchini1/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/hari1718/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hari1718/" height="30" width="40" /></a>
-<a href="https://discord.gg/haripch17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haripch17" height="30" width="40" /></a>
+<p align="center">
+Building scalable ML systems, GenAI apps, and production-ready full-stack solutions 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hari-1718&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-1718&show_icons=true&locale=en&layout=compact" alt="hari-1718" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari-1718&theme=algolia&row=1&column=6" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-1718&show_icons=true&locale=en" alt="hari-1718" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-1718&" alt="hari-1718" /></p>
+### 👨‍💻 About Me
+
+- 🎓 **B.Tech – Computer Science & Data Science** @ KIET (2022–2026)  
+- 🧠 Strong foundations in **DSA, ML, NLP, GenAI, and Backend Systems**
+- 💼 Experience across **AI Internships, ML Research, and MERN Full-Stack Development**
+- 🚀 Passionate about turning **models → APIs → production apps**
+
+---
+
+### 🔭 Currently Working On
+
+- **🤖 EmoAgent-Bot**  
+  > Emotion-aware conversational AI using LLMs, prompt engineering, and intelligent routing  
+  Tech: *Python · LLMs · Prompt Engineering · FastAPI / Flask · Vector Search*
+
+- **🧠 AI-Powered Streamlit Applications**  
+  > Interactive ML & GenAI tools for real-world use cases
+
+---
+
+### 🌱 Currently Learning
+
+- **LoRA Fine-Tuning & PEFT strategies**
+- **Mistral / Open-Source LLM Inference**
+- **MLflow Experiment Tracking & Model Lifecycle**
+- **RAG pipelines & Vector Databases**
+
+---
+
+### 👯 Open to Collaborate On
+
+- Open-Source **ML / GenAI / NLP** projects  
+- LLM tooling, **RAG systems**, AI agents, and applied research
+
+---
+
+### 🤝 Looking for Help With
+
+- Advanced **Prompt Engineering**
+- LLM evaluation & hallucination reduction
+- Agent-based system design
+
+---
+
+### 💬 Ask Me About
+
+`Python` · `Machine Learning` · `Deep Learning` · `NLP` ·  
+`TensorFlow / PyTorch` · `Streamlit` · `Flask / FastAPI` · `MERN Stack`
+
+---
+
+### 📫 Reach Me At
+
+- 📧 **Email:** hariprasadchinimilli18@gmail.com  
+- 💼 **Resume:** https://github.com/Hari-1718/resume  
+- 💻 **All Projects:** https://github.com/Hari-1718
+
+---
+
+### 🏆 Highlights & Achievements
+
+- 📈 Improved ML model accuracy by **12% in a single sprint**
+- 🥇 **Top 10%** – IIIT-Hyderabad ML Program (1500+ learners)
+- 🥈 **2nd Place** – Python Coding Contest (JNTU-GV)
+- 🧩 Solved **60+ DSA problems** on LeetCode
+- 🛠 Built & shipped **full-stack + ML production apps**
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/haripch/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+</a>
+<a href="https://leetcode.com/u/hari1718/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+</a>
+<a href="https://www.hackerrank.com/hariprasadchini1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
+</a>
+<a href="https://www.codechef.com/users/hariprasad45" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" />
+</a>
+<a href="https://discord.gg/haripch17" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+**Programming & Core**
+- Python, Java, C, JavaScript, TypeScript
+
+**AI / ML**
+- TensorFlow, PyTorch, Scikit-learn  
+- NLP, LLMs, Prompt Engineering, RAG  
+- Pandas, NumPy, Seaborn, MLflow
+
+**Backend & APIs**
+- Flask, FastAPI, Node.js, Express.js  
+- REST APIs, Authentication, JWT
+
+**Frontend**
+- React.js, React Native, HTML5, CSS3
+
+**Databases & DevOps**
+- MongoDB, Firebase  
+- Git, GitHub, Docker
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-1718&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hari-1718&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-1718&theme=default" />
+</p>
+
+---
+
+⚡ **Fun Fact:** I treat **prompt engineering like hyperparameter tuning** 😄  
