@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad Chinimilli</h1>
 <h3 align="center">
-AI / ML Engineer • Generative AI Builder • Full-Stack MERN Developer
+Software Engineer | Full-Stack Developer | Applied AI
 </h3>
 
 <p align="center">
-Designing intelligent systems, ML pipelines, and production-ready applications 🚀
+Building reliable web architecture, scalable backends, and practical AI integrations.
 </p>
 
 <p align="center">
@@ -15,177 +15,106 @@ Designing intelligent systems, ML pipelines, and production-ready applications �
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science & Data Science undergraduate focused on building **real-world AI systems**, **Generative AI applications**, and **scalable full-stack products**.
+I am a Computer Science & Data Science undergraduate (Class of 2026) who writes code that connects complex backend logic to usable interfaces. While I have a strong foundation in machine learning, my primary focus is full-stack software engineering—building systems that are secure, efficient, and scale effectively.
 
-My work revolves around transforming ideas into deployable solutions:
-
-**Problem → Data → Model → API → Production**
-
-- 🎓 B.Tech – Computer Science & Data Science  
-- 🧠 Strong focus on **Machine Learning, NLP, Generative AI, and Backend Systems**
-- ⚙️ Experienced in **end-to-end ML pipelines & REST API design**
-- 🚀 Interested in **production AI, applied ML, and intelligent products**
-
----
-
-## 🔬 Areas of Interest
-
-- Machine Learning & Deep Learning  
-- Generative AI & RAG Systems  
-- Natural Language Processing  
-- Computer Vision  
-- AI-Driven Product Engineering  
-- Full-Stack Application Development  
+**What I actually do:**
+- ⚙️ **Backend Engineering:** Designing REST APIs, managing state, and optimizing relational/NoSQL database queries.
+- 🖥️ **Frontend Development:** Building responsive, state-driven interfaces using React.js and Next.js.
+- 🧠 **Applied AI:** Wiring machine learning models (NLP, Computer Vision, RAG) into production software to solve specific problems.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 **SHL GenAI Assessment Recommendation System (RAG)**  
-Production-style Retrieval-Augmented Generation system for intelligent assessment recommendations
+### 🛒 **KawaiiArts – Full-Stack E-Commerce Platform**
+A complete MERN stack application handling product management and secure checkouts.
+- Managed complex client-side state synchronization using React Context.
+- Secured backend API routes with JWT authentication and middleware.
+- Built a custom WhatsApp-integrated order workflow to bypass traditional payment gateway overhead.
+> **Tech:** React.js · Node.js · Express · MongoDB · Tailwind CSS
 
-- Implemented semantic search using sentence embeddings (MiniLM)
-- Designed scalable FastAPI backend for recommendations
-- Evaluated retrieval quality using Recall@10
-- Focused on modular, production-ready architecture
+### 🔄 **Internal Request Workflow Engine**
+A distributed web application built to track multi-tier organizational approvals.
+- Implemented PostgreSQL database locks via Prisma ORM.
+- Handled concurrent user mutations to completely prevent race conditions and maintain data integrity under load.
+> **Tech:** Next.js · Node.js · PostgreSQL · Prisma ORM
 
-**Tech:** FastAPI · NLP · Embeddings · Vector Search · RAG
+### 🤖 **GenAI Assessment Recommender (RAG)**
+A production-style Retrieval-Augmented Generation system.
+- Replaced generic LLM hallucinations by grounding the model in embedded document contexts using MiniLM.
+- Designed a scalable FastAPI backend to serve recommendation payloads quickly.
+> **Tech:** Python · FastAPI · LLMs · Vector Search 
 
----
-
-### 🧠 **Agentic AI-Based Autonomous Trading System (DQN)**  
-Reinforcement learning agent trained to perform trading decisions
-
-- Built custom trading environment & reward functions
-- Implemented Deep Q-Network (DQN)
-- Analyzed policy learning & long-term reward optimization
-
-**Tech:** Python · Reinforcement Learning · Deep Q-Learning
-
----
-
-### 👁️ **Animal Sense AI – Real-Time Detection System**
-
-Real-time detection system using Computer Vision & optimized inference pipelines
-
-- Integrated custom-trained YOLOv8 models
-- Implemented lazy loading for inference optimization
-- Designed modular Flask backend for model management
-
-**Tech:** Flask · OpenCV · YOLOv8 · Computer Vision
-
----
-
-### 🛒 **KawaiiArts – Full-Stack E-Commerce Platform (MERN)**
-
-- JWT-based authentication & secure REST APIs
-- Responsive UI using Tailwind CSS & Framer Motion
-- Global state management with React Context API
-- Custom WhatsApp-integrated order workflow
-
-**Tech:** MERN Stack · REST APIs · MongoDB · Tailwind CSS
+### 🧠 **Autonomous Trading Agent (DQN)**
+A reinforcement learning environment engineered to evaluate historical market data.
+- Built custom trading logic and reward functions to penalize risky market behavior.
+- Implemented a Deep Q-Network in PyTorch to optimize long-term trading rewards over multiple training epochs.
+> **Tech:** Python · PyTorch · Deep Q-Learning
 
 ---
 
 ## 💼 Experience
 
-**AI & Machine Learning Intern**  
-TechSaksham (Microsoft & SAP CSR Initiative) – Edunet Foundation
+**Software Engineer Intern (Backend & Data) | Prewise**  
+*Feb 2026 – Present*  
+Engineered 15+ Node.js REST API endpoints connecting server-side logic directly to React dashboards. Wrote custom routing middleware to enforce strict tenant data isolation, preventing data leakage across a shared SQL database.
 
-- Developed interpretable ML solutions & NLP models
-- Built end-to-end ML pipelines
-- Translated problem statements into deployable ML systems
+**Full-Stack Developer Intern | SmartBridge**  
+*May 2025 – Jul 2025*  
+Investigated intermittent staging server timeouts by tracing system logs. Discovered unindexed MongoDB read operations, restructured the aggregation pipelines, and dropped data retrieval latency by 40%.
 
----
-
-**Full-Stack Developer Intern (MERN)**  
-SmartBridge / APSCHE
-
-- Developed full MERN e-commerce application (ShopEZ)
-- Designed RESTful APIs using Node.js & Express
-- Worked extensively with MongoDB & schema design
-- Resolved frontend ↔ backend integration challenges
+**AI & Data Analytics Intern | Edunet Foundation**  
+*Dec 2024 – Jan 2025*  
+Rewrote data pipeline scripts in Python and Pandas to automate metric tracking, completely replacing a 5-hour manual reporting routine. 
 
 ---
-
-## 🏆 Achievements
-
-- 🥇 Top 10% – Foundations of Modern Machine Learning (IIIT Hyderabad)
-- 🥈 2nd Place – Python Coding Contest (JNTU-GV)
-- 📈 Built multiple **production-style AI & full-stack systems**
-- 🧩 Solved 200+ DSA problems (LeetCode)
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 🤖 AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-2C3E50?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-16A085?style=for-the-badge)
-
----
-
-### 🧠 ML Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-2C3E50?style=for-the-badge)
 
----
-
-### 🎨 Frontend & UI
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge)
+
+### 🤖 Applied AI & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-34495E?style=for-the-badge)
 
 ---
 
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-34495E?style=for-the-badge)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge)
+## 🏆 Proof of Work
+- 🧩 **250+ LeetCode problems solved** (Focus on Data Structures & Algorithms).
+- 🥈 **2nd Place Overall** out of 500+ entrants in the JNTU-GV technical competitive programming contest.
+- 🏅 **ServiceNow CIS-DF Certified** (Validates enterprise data architecture knowledge).
 
+---
 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/haripch/" target="_blank">
+<a href="https://linkedin.com/in/haripch" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
 </a>
-<a href="https://leetcode.com/u/Hari1718/" target="_blank">
+<a href="https://leetcode.com/u/Hari1718" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
 </a>
 <a href="https://github.com/Hari-1718" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </a>
 </p>
-
----
-
-⚡ **Fun Fact:** I treat prompt engineering like model optimization 😄
